@@ -2,5 +2,7 @@
 
 int main()
 {
+
+  double k = 0;
     std::cout << "Hello, World" << std::endl;
 }

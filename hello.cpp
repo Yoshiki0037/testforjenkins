@@ -3,6 +3,6 @@
 int main()
 {
 
-  double k = 0;
+  double k,b = 0;
     std::cout << "Hello, World" << std::endl;
 }

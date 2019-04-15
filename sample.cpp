@@ -5,5 +5,5 @@ int add(int x, int y) {
 }
 
 TEST(AddTest, TwoAndThree) {
-    EXPECT_EQ(add(2, 3), 6);
+    EXPECT_EQ(add(2, 3), 5);
 }
